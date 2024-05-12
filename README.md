@@ -1,4 +1,3 @@
-# i222014_i221913_i221996_BDA_FinalProject
 # RhythmRabbit- A Streaming Platform Similar to Spotify With a Built In Music Recommendation System
 
 ## Introduction
