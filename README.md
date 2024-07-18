@@ -59,7 +59,3 @@ The frontend is developed using HTML, CSS, and Bootstrap, providing a clean and 
 
 In conclusion, the RhythmRabbit music recommendation system exemplifies a successful integration of various advanced technologies to create a dynamic and user-centric platform. Through the meticulous orchestration of an ETL pipeline, real-time data handling with Apache Kafka, robust backend services using Flask, and a sophisticated recommendation engine powered by Apache Spark, RhythmRabbit offers a seamless and engaging music listening experience.
 
-### Team Members
-- Taha Tariq (22I-2014)
-- Haider Akbar (22I-1913)
-- Hasnain Raza (22I-2014)
